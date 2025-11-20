@@ -1,32 +1,49 @@
-### Greetings! I'm Hanife 👋,
-A passionate game developer dedicated to creating high-quality games. I have intermediate skills in Unreal Engine 5, which I use to craft engaging gaming experiences.
+# Hey, I'm Hilal👋  
+**Backend Developer in Progress | Software Development Enthusiast**
 
-- 🖥 My current focus is on developing computer games using Unreal Engine.
-- 🦊 Developing the game named 'Little Prince Adventure Times' using Unreal Engine 5.3.
-- 📚 Learning about Indie Game Development & Programming Languages (C++, C, Python...).
-
----
-
-### Overview
-- *Game Development Focus:* My primary expertise lies in developing impressive and enjoyable games, actively utilizing Unreal Engine 5 in this process. Proficient in Blueprint scripting and proficiently delving into C++ for Unreal Engine projects.
-
-- *Tech Stack:* Proficient in using tools and frameworks such as Unity, Blender, and Maya for asset creation, with experience in Git for version control.
-
-- *Cybersecurity:* Additionally, I am involved in cybersecurity and prefer using Kali Linux in this field. Proficient in ethical hacking techniques and penetration testing methodologies.
-
-- *Continuous Learning:* Consistently expanding my knowledge in game development, exploring the depths of indie game creation, and mastering various programming languages, including C++, C and Python.
+I'm currently focused on developing my skills through university projects while working my way into the world of backend development.  
+Previously, I gained experience in **game development** and **cybersecurity**, and these fields gave me a strong technical foundation—now I’m fully shifting my focus toward building real-world software solutions.
 
 ---
 
+## 🚀 What I'm Working On
+- Improving my backend development skills  
+- Building small projects to learn APIs, databases, and server-side logic  
+- Strengthening my understanding of programming fundamentals  
+- Learning how to write cleaner, scalable, and maintainable code  
+
+---
+
+## 🛠️ Tech Stack & Tools
+### Currently Learning
+- **Backend:** Node.js, Express, APIs  
+- **Databases:** MySQL / MariaDB  
+- **Programming:** C, C++, Python  
+- **Tools:** Git, GitHub, VS Code  
+
+### Past Experience
+- **Game Development (Intermediate):** Unreal Engine, Blueprints, C++ basics  
+- **Cybersecurity:** Kali Linux tools, fundamentals of pentesting  
+
+---
+
+## 🌱 My Learning Goals
+- Become confident in backend development  
+- Create clean APIs and structured server-side applications  
+- Build meaningful personal projects  
+- Improve problem-solving and debugging skills  
+- Strengthen version control workflow with Git & GitHub  
+
+---
+
+## 📊 GitHub Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MTMLYNX&theme=transparent&hide_border=true&hide=issues&show_icons=true&include_all_commits=true" alt="My GitHub stats" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MTMLYNX&theme=transparent&hide_border=true&hide=html&layout=compact&langs_count=6&card_width=275" alt="My most used languages" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=MTMLYNX&theme=transparent&hide_border=true&show_icons=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTMLYNX&layout=compact&theme=transparent&hide_border=true" width="45%" />
 </p>
 
 ---
 
-## Mission: Crafting Digital Realms, Forging Unforgettable Experiences.
+### ✨ A Small Note  
+I'm still at the beginning of my backend journey, but I'm motivated, learning fast, and consistently improving through school projects and personal study.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MTMLYNX&label=Profile%20Views&color=0e75b6&style=flat" alt="MTMLYNX" />
-</p>
