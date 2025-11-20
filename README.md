@@ -38,7 +38,8 @@ Previously, I gained experience in **game development** and **cybersecurity**, a
 
 ## 📊 GitHub Overview
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MTMLYNX&theme=gruvbox&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MTMLYNX&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTMLYNX&layout=compact&langs_count=6&theme=dracula" width="45%" />
 </p>
 ---
 
