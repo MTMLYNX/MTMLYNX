@@ -17,8 +17,8 @@ Previously, I gained experience in **game development** and **cybersecurity**, a
 ## 🛠️ Tech Stack & Tools
 ### Currently Learning
 - **Backend:** Node.js, Express, APIs  
-- **Databases:** MySQL / MariaDB  
-- **Programming:** C, C++, Python  
+- **Databases:** MsSQL 
+- **Programming:** C, Java, Python  
 - **Tools:** Git, GitHub, VS Code  
 
 ### Past Experience
