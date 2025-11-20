@@ -44,6 +44,7 @@ Previously, I gained experience in **game development** and **cybersecurity**, a
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTMLYNX&layout=compact&theme=transparent&hide_border=true" width="45%" />
 
 </p>
+
 ---
 
 ### ✨ A Small Note  
