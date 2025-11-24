@@ -39,9 +39,9 @@ Previously, I gained experience in **game development** and **cybersecurity**, a
 ## 📊 GitHub Overview
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MTMLYNX&theme=transparent&hide_border=true&show_icons=true" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=KargaCrow&theme=transparent&hide_border=true&show_icons=true" width="45%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTMLYNX&layout=compact&theme=transparent&hide_border=true" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KargaCrow&layout=compact&theme=transparent&hide_border=true" width="45%" />
 
 </p>
 
